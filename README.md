@@ -26,5 +26,3 @@ Python
 python firework.py
 
 # Click on the canvases to see the fireworks and check the console for performance metrics.
-Mesterséges intelligencia által létrehozott kód. Ellenőrizze és körültekintően használja. További információ a GYIK-ről.
-This script is a great example of how different parallel processing techniques can be visualized and compared in a fun and interactive way.
